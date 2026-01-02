@@ -8,7 +8,8 @@ Aprendo rápido, sou curiosa, apaixonada por IA e tecnologia, e motivada por des
 Atuo conectando **negócio, tecnologia e operação**, sempre com foco em soluções que funcionam no mundo real.
 
 <p align="center">
-<img width="311" height="311" alt="Diagrama sem nome drawio" src="https://github.com/user-attachments/assets/f44f0639-1943-40d5-9d25-a054ffe87891" />
+<img width="200" height="200" alt="atuacao" src="https://github.com/user-attachments/assets/8b745e32-ba90-4a6c-be22-f55717169062" />
+
 
 ---
 
