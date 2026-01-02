@@ -1,29 +1,15 @@
 # 👋 Olá, eu sou a Marília, mas pode me chamar de Mar
 
-Sou uma profissional de **Arquitetura de Soluções foco em automação em evolução para Engenharia de IA**, com atuação em automação, integração de sistemas e soluções digitais corporativas.
+Sou uma profissional de **Arquitetura de Soluções em evolução para Engenharia de IA**, com atuação em automação, integração de sistemas e soluções digitais corporativas.
 
 Faço um pouco de tudo, e isso é intencional.  
 Aprendo rápido, sou curiosa, apaixonada por IA e tecnologia, e motivada por desafios que exigem **visão sistêmica, pensamento crítico e execução real**.
 
 Atuo conectando **negócio, tecnologia e operação**, sempre com foco em soluções que funcionam no mundo real.
 
-```mermaid     
-flowchart TB
-    Negócio["Negócio"]
-    Tecnologia["Tecnologia"]
-    Operação["Operação"]
-    Voce["Marília<br/>(Arquitetura + IA)"]
+<p align="center">
+<img width="311" height="311" alt="Diagrama sem nome drawio" src="https://github.com/user-attachments/assets/f44f0639-1943-40d5-9d25-a054ffe87891" />
 
-    Negócio --> Voce
-    Tecnologia --> Voce
-    Operação --> Voce
-
-    %% Layout ajustado para parecer com setas cruzadas
-    Negócio ---|▲| Voce
-    Operação ---|◄| Voce
-    Tecnologia ---|►| Voce
-
-```
 ---
 
 ## 🧭 Meu foco hoje
@@ -101,14 +87,18 @@ Criação de múltiplas bibliotecas de conhecimento organizadas em SharePoint, c
 
 ## 🧠 Como eu penso tecnologia
 
-- Arquitetura vem antes da ferramenta  
-- IA é meio, não fim  
-- Automação sem processo definido vira dívida  
-- Código precisa ser sustentável, não heroico  
+- Arquitetura é a base, ferramenta é consequência
+Antes de escolher qualquer tecnologia, é preciso entender a estrutura e os objetivos do sistema
+- IA é meio, não objetivo
+Inteligência Artificial deve resolver problemas reais, não ser usada apenas por tendência.
+- Automação X processo definido
+Automatizar algo mal estruturado só acelera erros e aumenta retrabalho.
+- Código deve ser sustentável
+Soluções devem ser simples, escaláveis e fáceis de manter, não apenas impressionantes no curto prazo. 
 
 ---
 
-## 🌱 Em evolução constante
+## 🌱 Em evolução
 
 Atualmente aprofundando estudos em:
 - Arquitetura de soluções  
