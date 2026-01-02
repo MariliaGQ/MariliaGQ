@@ -1,12 +1,29 @@
-# 👋 Olá, eu sou a Marília — mas pode me chamar de Mar
+# 👋 Olá, eu sou a Marília, mas pode me chamar de Mar
 
-Sou uma profissional de **Arquitetura de Soluções em evolução para Engenharia de IA**, com atuação em automação, integração de sistemas e soluções digitais corporativas.
+Sou uma profissional de **Arquitetura de Soluções foco em automação em evolução para Engenharia de IA**, com atuação em automação, integração de sistemas e soluções digitais corporativas.
 
-Faço um pouco de tudo — e isso é intencional.  
+Faço um pouco de tudo, e isso é intencional.  
 Aprendo rápido, sou curiosa, apaixonada por IA e tecnologia, e motivada por desafios que exigem **visão sistêmica, pensamento crítico e execução real**.
 
-Atuo conectando **negócio, tecnologia e operação**, sempre com foco em soluções que funcionam no mundo real — não só em apresentações bonitas.
+Atuo conectando **negócio, tecnologia e operação**, sempre com foco em soluções que funcionam no mundo real.
 
+```mermaid     
+flowchart TB
+    Negócio["Negócio"]
+    Tecnologia["Tecnologia"]
+    Operação["Operação"]
+    Voce["Marília<br/>(Arquitetura + IA)"]
+
+    Negócio --> Voce
+    Tecnologia --> Voce
+    Operação --> Voce
+
+    %% Layout ajustado para parecer com setas cruzadas
+    Negócio ---|▲| Voce
+    Operação ---|◄| Voce
+    Tecnologia ---|►| Voce
+
+```
 ---
 
 ## 🧭 Meu foco hoje
