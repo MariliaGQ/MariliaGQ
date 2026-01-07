@@ -1,11 +1,11 @@
 # 👋 Olá, eu sou a Marília, mas pode me chamar de Mar
 
-Sou uma profissional de **Arquitetura de Soluções em evolução para Engenharia de IA**, com atuação em automação, integração de sistemas e soluções digitais corporativas.
+Sou uma profissional de **Arquitetura de Soluções**, com atuação prática em **automação**, **integração de sistemas** e **engenharia de IA aplicada a contextos corporativos reais**.
+
+Meu foco não é tecnologia pela tecnologia.  
+Trabalho conectando **negócio, processos e sistemas**, projetando soluções que sejam **operáveis, governadas e sustentáveis** no dia a dia.
 
 Faço um pouco de tudo, e isso é intencional.  
-Aprendo rápido, sou curiosa, apaixonada por IA e tecnologia, e motivada por desafios que exigem **visão sistêmica, pensamento crítico e execução real**.
-
-Atuo conectando **negócio, tecnologia e operação**, sempre com foco em soluções que funcionam no mundo real.
 
 <p align="center">
 <img width="200" height="200" alt="atuacao" src="https://github.com/user-attachments/assets/8b745e32-ba90-4a6c-be22-f55717169062" />
@@ -43,69 +43,110 @@ Atuo conectando **negócio, tecnologia e operação**, sempre com foco em soluç
 
 ---
 
-## 🚀 Projetos em destaque
+## 🧱 Projetos corporativos (impacto real)
 
-### 🔹 Orquestrador de RPA em Python *(público)*
-Sistema em Python para **orquestração de execuções de RPAs**, com controle de horários, ambientes, máquinas e logs a partir de uma base centralizada.
+Nesta seção estão projetos **aplicados em ambiente corporativo real**, desenvolvidos sob restrições de governança, custo, prazo, compliance e integração com sistemas existentes.
 
-- Foco em confiabilidade e controle operacional  
-- Pensado para ambientes corporativos reais  
-
-🔗 **Repositório:** _link em breve_
+O foco aqui não é experimento, mas **impacto operacional, rastreabilidade e sustentabilidade técnica**.
 
 ---
 
-### 🔹 Ecossistema Digital de Projetos no SharePoint *(corporativo / restrito)*
-Arquitetura de um ecossistema completo para:
+### 🔹 Base de Conhecimento Corporativa com IA
+Arquitetura de uma base de conhecimento governada em **SharePoint**, consumida por **agentes de IA via Microsoft Teams**, com foco em acesso confiável à informação, curadoria documental e redução de dependência de pessoas-chave.
 
-- Entrada estruturada de demandas  
-- Priorização automatizada  
-- Gestão de projetos e tarefas  
-- Histórico e rastreabilidade  
-- Documentação automatizada  
+Repositório conceitual e decisões técnicas (corporativo / sem código)
 
-🔗 **Case arquitetural:** _documentação conceitual em breve_
+🔗https://github.com/MariliaGQ/enterprise-knowledge-ai-orchestration 
 
 ---
 
-### 🔹 Análise Automatizada de Projetos de Custeio Agrícola e Pecuário *(corporativo / restrito)*
-Solução em **UiPath + OCR + Azure Document Intelligence** para:
+### 🔹 Ecossistema Digital Corporativo
+Ecossistema digital para **entrada de demandas, priorização estruturada, gestão de projetos, execução, rastreabilidade e documentação automatizada**, integrando Power Platform, RPA e governança de processos.
 
-- Extração inteligente de dados  
-- Validação técnica e financeira  
-- Encaminhamento automático para crédito ou ajustes  
+Repositório conceitual e arquitetural (corporativo / sem código)
 
-🔗 **Case técnico:** _descrição de arquitetura em breve_
+🔗 https://github.com/MariliaGQ/corporate-digital-ecosystem
 
 ---
 
-### 🔹 Base de Conhecimento com IA integrada ao Microsoft Teams *(corporativo / restrito)*
-Criação de múltiplas bibliotecas de conhecimento organizadas em SharePoint, consumidas por um **agente com LLM**, apoiando busca, entendimento e tomada de decisão.
+### 🔹 RPA — Análise e Processamento de Projetos Técnicos (Crédito)
+Automação corporativa para **download, extração via OCR, validação e inserção de projetos de crédito rural**, integrando **UiPath**, **Azure Document Intelligence** e sistemas internos.
 
-🔗 **Case de IA aplicada:** _documentação em breve_
+Documentação técnica do projeto (corporativo / sem código)
+
+🔗 https://github.com/MariliaGQ/project-processing-rpa
+
+---
+
+### 🔹 Orquestrador de RPA (Python)
+Orquestrador local para **execução sequencial e governada de automações**, com scheduler, fila FIFO, logs persistidos em SQLite e interface gráfica.
+
+Projeto público com código executável, pensado para ambientes corporativos sem paralelismo.
+
+🔗 https://github.com/MariliaGQ/orchestrador-rpa
+
+---
+
+## 🎓 Formação ativa e aprofundamento técnico
+
+Além da atuação prática, mantenho uma trilha ativa de **formação técnica estruturada**, voltada ao aprofundamento em engenharia de software e engenharia de IA, com foco em decisões arquiteturais, trade-offs e aplicação responsável.
+
+---
+
+### 🔹 AI Engineering
+Trilha ativa de aprofundamento em **Engenharia de IA**, vinculada à pós-graduação em Engenharia de IA (início: fevereiro/2026).
+
+Foco em:
+- Arquitetura de sistemas com IA  
+- Agentes, RAG e orquestração  
+- Decisões técnicas e trade-offs  
+- Avaliação de custo, risco e governança  
+
+🔗 https://github.com/MariliaGQ/ai-engineering
+
+---
+
+### 🔹 curso.dev — TabNews
+Projeto de atualização técnica em **engenharia de software**, utilizando o TabNews como sistema real para consolidar práticas modernas de desenvolvimento, versionamento e evolução incremental.
+
+🔗 https://github.com/MariliaGQ/tabnews-curso-dev
+
+---
+
+## 🧪 Projetos de estudo e aplicabilidade
+
+Projetos com caráter **experimental e educacional**, utilizados como laboratório para explorar arquiteturas, padrões e limites técnicos.  
+Não são produtos prontos nem soluções enterprise.
+
+---
+
+### 🔹 LLM Document Assistant
+Assistente de documentos baseado em LLM, explorando ingestão de arquivos, contexto direto e limitações de escala, sem uso de embeddings ou bancos vetoriais.
+
+🔗 https://github.com/MariliaGQ/llm-document-assistant
+
+---
+
+### 🔹 Telegram LLM Agent
+Agente conversacional com LLM integrado ao Telegram, explorando uso de ferramentas, memória persistente, processamento de imagens e orquestração de decisões.
+
+🔗 https://github.com/MariliaGQ/telegram-llm-agent
 
 ---
 
 ## 🧠 Como eu penso tecnologia
 
-- Arquitetura é a base, ferramenta é consequência
-Antes de escolher qualquer tecnologia, é preciso entender a estrutura e os objetivos do sistema
-- IA é meio, não objetivo
-Inteligência Artificial deve resolver problemas reais, não ser usada apenas por tendência.
-- Automação X processo definido
-Automatizar algo mal estruturado só acelera erros e aumenta retrabalho.
-- Código deve ser sustentável
-Soluções devem ser simples, escaláveis e fáceis de manter, não apenas impressionantes no curto prazo. 
+- **Arquitetura vem antes da ferramenta**  
+  Tecnologia é consequência de estrutura e objetivo bem definidos.
 
----
+- **IA é meio, não fim**  
+  Uso IA quando ela resolve um problema real, não por tendência.
 
-## 🌱 Em evolução
+- **Automação exige processo**  
+  Automatizar algo mal estruturado só acelera o erro.
 
-Atualmente aprofundando estudos em:
-- Arquitetura de soluções  
-- Engenharia de IA aplicada  
-- Sistemas de conhecimento corporativo  
-- Automação inteligente em escala  
+- **Código precisa ser sustentável**  
+  Simplicidade, clareza e manutenção importam mais do que brilho técnico.
 
 ---
 
